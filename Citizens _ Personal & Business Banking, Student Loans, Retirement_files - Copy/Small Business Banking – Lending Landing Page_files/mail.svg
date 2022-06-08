@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>11-communication/047-mail</title>
+    <defs>
+        <path d="M15.8223,7.4478 L23.0003,1.6578 L23.0003,14.3318 L15.8223,7.4478 Z M8.9663,8.0768 L10.7653,9.5348 C11.4683,9.9998 12.5923,10.0098 13.2173,9.5498 L15.0373,8.0808 L22.2523,14.9998 L1.7243,14.9998 L8.9663,8.0768 Z M12.6063,8.7578 C12.3473,8.9478 11.6793,8.9428 11.3543,8.7288 L1.8213,0.9998 L22.2223,0.9998 L12.6063,8.7578 Z M1.0003,1.6218 L8.1823,7.4428 L1.0003,14.3088 L1.0003,1.6218 Z M22.3493,-0.0002 L1.6503,-0.0002 C0.7493,-0.0002 0.0003,0.6978 0.0003,1.5718 L0.0003,14.4288 C0.0003,15.3028 0.7493,15.9998 1.6503,15.9998 L22.3493,15.9998 C23.2513,15.9998 24.0003,15.3028 24.0003,14.4288 L24.0003,1.5718 C24.0003,0.6978 23.2513,-0.0002 22.3493,-0.0002 L22.3493,-0.0002 Z" id="path-1"></path>
+    </defs>
+    <g id="Redlines" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Asset-Sheet" transform="translate(-51.000000, -449.000000)">
+            <g id="11-communication/047-mail" transform="translate(51.000000, 449.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="icon" fill="#046EAE" xlink:href="#path-1"></use>
+                <g id="color/b2" mask="url(#mask-2)" fill="#056DAE">
+                    <g transform="translate(-1.000000, -5.000000)" id="Color-/-B2">
+                        <rect x="0" y="0" width="26" height="26"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
